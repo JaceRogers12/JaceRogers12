@@ -4,7 +4,8 @@ I'm a student for BloomTech and learning full stack web development and JavaScri
 
 Yada, yada, yada. So what?
 
-Well, to be honest what I'm learning feels revolutionary and I'm amazed at all the things I still have yet to learn.
+Well, to be honest, it's really intense. I often feel in over my head.
+What I'm learning feels revolutionary and I'm amazed at all the things I still have yet to learn.
 But the interesting thing is- if I look back, even to just a few months ago, I've come so far and learned so much.
 I'm caught in a fascinating paradox:
 I feel like I know all that I need to know,
